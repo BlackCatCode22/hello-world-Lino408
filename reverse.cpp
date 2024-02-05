@@ -12,7 +12,7 @@ void reverseStr (string& str)
 int main () 
 
 {
-    string str = " Hellow and thank you world ";
+    string str = " Hello and thank you world ";
     reverseStr(str);
     cout << str;
     return 0;
